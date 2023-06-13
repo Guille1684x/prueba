@@ -1,3 +1,4 @@
 print('Prueba de git')
 print('Cola')
-prueba('Pila')
+print('Pila')
+print('POO')
